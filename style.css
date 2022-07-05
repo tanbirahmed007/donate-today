@@ -81,4 +81,43 @@
     margin-top: 150px;
 }
 
+.plan-detail{
+    display: flex;
+}
 
+.help{
+    background-color: antiquewhite;
+    width: 25%;
+    height: 380px;
+    margin-left: 100px;
+}
+
+.help2{
+    background-color: mediumaquamarine;
+    width: 25%;
+    height: 380px;
+    margin-left: 100px;
+}
+
+.help3{
+    background-color: olivedrab;
+    width: 25%;
+    height: 380px;
+    margin-left: 100px;
+}
+
+.icon{
+    margin-top: 50px;
+    margin-left: 25px;
+}
+
+.headline{
+    margin-top: 30px;
+    margin-left: 25px;
+}
+
+.info{
+
+    margin-top: 5px;
+    margin-left: 25px;
+}
