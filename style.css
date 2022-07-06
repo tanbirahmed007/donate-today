@@ -1,31 +1,32 @@
-.full-body-font{
+.full-body-font {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
 }
 
-.first-div{
+.first-div {
 
     background-image: url(images/donation1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 600px;
+    margin: 0%;
 }
 
-.big-text{
+.big-text {
     color: white;
     text-align: center;
     font-size: 50px;
-}
+    }
 
-.para{
+.para {
     color: white;
     text-align: center;
     width: 500px;
     margin-left: 30%;
 }
 
-.button{
+.button {
     color: white;
     font-size: 20px;
     font-weight: 700;
@@ -36,14 +37,16 @@
     border-radius: 10px;
 }
 
-.secound-div{
+.secound-div {
     padding: 20px;
 }
 
-.big-text2{
+.big-text2 {
     text-align: center;
+    font-size: 60px;
 }
-.para2{
+
+.para2 {
 
     color: gray;
     text-align: center;
@@ -52,13 +55,13 @@
 
 }
 
-.tk{
+.tk {
     display: inline-block;
     padding: 5px;
     margin-left: 100px;
 }
 
-.mark{
+.mark {
     color: gray;
     display: inline-block;
     background-color: brown;
@@ -69,55 +72,96 @@
     height: 150px;
 }
 
-.amount{
+.amount {
 
     margin-left: 42%;
     padding: 20px;
+    border-width: 0 0 0 0;
 }
 
-.plan{
+.plan {
     text-align: center;
     padding: 20px;
     margin-top: 150px;
+    font-size: 60px;
 }
 
-.plan-detail{
+.plan-detail {
     display: flex;
 }
 
-.help{
+.help {
     background-color: antiquewhite;
     width: 25%;
     height: 380px;
     margin-left: 100px;
+    border-radius: 10px;
 }
 
-.help2{
+.help2 {
     background-color: mediumaquamarine;
     width: 25%;
     height: 380px;
     margin-left: 100px;
+    border-radius: 10px;
 }
 
-.help3{
+.help3 {
     background-color: olivedrab;
     width: 25%;
     height: 380px;
     margin-left: 100px;
+    border-radius: 10px;
 }
 
-.icon{
+.icon {
     margin-top: 50px;
     margin-left: 25px;
 }
 
-.headline{
+.headline {
     margin-top: 30px;
     margin-left: 25px;
 }
 
-.info{
+.info {
 
     margin-top: 5px;
     margin-left: 25px;
+}
+
+.updates{
+
+
+}
+
+.line{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.mail{
+    background-color: #cac8c8;
+    margin-left: 150px;
+    padding: 15px;
+    width: 300px;
+    border-width: 0 0 0 0;
+}
+
+.button2{
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    margin-left: -1%;
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    padding: 12px;
+    
+}
+
+.mail_button{
+    background-color: #eed8d1;
+    padding: 80px;
+    margin-left: 250px;
+    margin-right: 250px;
 }
