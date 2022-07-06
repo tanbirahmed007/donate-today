@@ -67,10 +67,15 @@
     justify-content: center;
 }
 .tk div{
-    padding: 40px,25px;
+    padding: 40px;
     margin: 10px;
     border-radius: 5px;
     background: rgb(247,244,244);
+}
+
+.tk .active{
+    border: 1px solid #e67171;
+    color: #e67171;
 }
 
 .mark {
