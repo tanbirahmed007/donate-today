@@ -13,6 +13,7 @@
     margin: 0%;
 }
 
+
 .big-text {
     color: white;
     text-align: center;
@@ -30,7 +31,7 @@
     color: white;
     font-size: 20px;
     font-weight: 700;
-    margin-left: 45%;
+    margin-left: 41%;
     text-decoration: none;
     background-image: linear-gradient(red, tomato);
     padding: 15px;
@@ -39,6 +40,14 @@
 
 .secound-div {
     padding: 20px;
+}
+
+.vol{
+    color: orangered;
+    text-align: center;
+    font-size: 50px;
+    padding: 20px;
+    
 }
 
 .big-text2 {
@@ -62,9 +71,9 @@
 }
 
 .mark {
-    color: gray;
+    
     display: inline-block;
-    background-color: brown;
+    background-color: #e67171;
     font-size: 15px;
     font-weight: 700;
     border-radius: 15px;
@@ -112,6 +121,20 @@
     height: 380px;
     margin-left: 100px;
     border-radius: 10px;
+}
+
+.s1{
+
+    
+    background-color: #e4b195;
+    padding: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+.form{
+    text-align: center;
+    
 }
 
 .icon {
@@ -165,3 +188,30 @@
     margin-left: 250px;
     margin-right: 250px;
 }
+
+.f-button {
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 1%;
+    border-width: 0 0 0 0;
+    text-decoration: none;
+    background-image: linear-gradient(#dfaa64, #ae6fdb);
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.big-foot{
+    color: orangered;
+}
+
+
+.foot{
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 300px;
+    color: white;
+    background-color: #1b1a1a;
+    height: 200px;
+}
+
